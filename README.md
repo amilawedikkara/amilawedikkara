@@ -29,6 +29,16 @@ Contributed to cross-service architecture and OpenAPI documentation covering 44 
 
 [View Architecture Repository](https://github.com/amilawedikkara/isign-attendance-platform-docs)
 
+
+### Mobile Financial Management App — AI Integration & QA
+
+Designed API contracts and coordinated team development, implementation review, automated testing, and cross-module integration for a React Native financial management application.
+
+Contributed directly to AI receipt-scanning integration, response validation, and transaction confirmation workflows.
+
+[View Architecture, QA Evidence & GitHub Pull Requests](https://github.com/amilawedikkara/mobile-finance-ai-qa-portfolio)
+
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/amilai/)
