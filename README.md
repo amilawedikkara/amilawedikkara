@@ -15,7 +15,7 @@ My current work focuses on Python development, automated testing, system integra
 ## Selected Projects
 
 ### AI-Assisted CI/CD Pipeline Optimization
-Bachelor's thesis investigating unusual CI/CD execution times using Isolation Forest and statistical methods, supported by controlled deployment experiments.
+Bachelor's thesis on CI/CD workflow analysis, automated quality gates, and deployment optimization using Python, IQR, and Isolation Forest. The linked public portfolio demonstrates the analysis using synthetic data.
 
 [View CI/CD Python Portfolio](https://github.com/amilawedikkara/ci-cd-anomaly-detection-portfolio)
 
