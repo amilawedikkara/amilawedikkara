@@ -17,7 +17,7 @@ My current work focuses on Python development, automated testing, system integra
 ### AI-Assisted CI/CD Pipeline Optimization
 Bachelor's thesis investigating unusual CI/CD execution times using Isolation Forest and statistical methods, supported by controlled deployment experiments.
 
-[View Thesis Repository](https://github.com/amilawedikkara/isign-cicd-optimization-thesis)
+[View CI/CD Python Portfolio](https://github.com/amilawedikkara/ci-cd-anomaly-detection-portfolio)
 
 ### iSign — Python Face Verification
 Contributed to FastAPI-based face verification, verification safeguards and automated testing for a team-developed attendance management system.
